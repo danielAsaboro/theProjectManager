@@ -1,3 +1,10 @@
+It was a simple fix!
+
+I've cloned my part from our submission for the Treblle API Hackathon from the Initial repo. 
+This is to continue on it and I would love to keep other's part as it for future reference.
+Of course, I'm not happy with our early departure...but I have to live with it.
+
+
 This REPO contains our submission for the Treblle API Hackathon.
 
 Treblle API Hackathon is a 5-day hackathon that kicks off on the 3rd of July, 2023 to the 7th of July, 2023.
